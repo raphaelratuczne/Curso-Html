@@ -1,0 +1,9 @@
+.div-pai {
+  background-color: green;
+}
+.div-pai .div-filho {
+  color: gray;
+}
+.div-pai .div-filho .div-neto {
+  color: black;
+}/*# sourceMappingURL=index.css.map */
